@@ -30,7 +30,7 @@ Project is created with:
 * tesseract==0.1.3
 
 ## Setup
-To run this project, install it locally pip:
+To run this project, install it locally with pip:
 
 $ pip install -r requirements.txt
 
@@ -48,3 +48,6 @@ $ url={https://makeml.app/datasets/cars-license-plates},
 $ journal={Make ML}}
 
 
+## Room for Improvement
+
+Currently working on making the project more robust and working on making it work in real-time with input cameras. There are plans to deploy the project with Docker container and AWS server. 
